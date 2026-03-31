@@ -1,5 +1,5 @@
 const quickLinks = [
-  { label: "Home", href: "#home" },
+  { label: "Home", href: "#home-company-profile" },
   { label: "About", href: "#about" },
   { label: "Services", href: "#services" },
   { label: "Contact", href: "#contact" },

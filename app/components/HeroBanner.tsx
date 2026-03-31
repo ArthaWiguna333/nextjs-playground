@@ -1,7 +1,7 @@
 export default function HeroBanner() {
   return (
     <section
-      id="home"
+      id="home-company-profile"
       className="flex min-h-screen items-center justify-center bg-gradient-to-br from-blue-700 to-indigo-900 px-6 pt-20 text-white"
     >
       <div className="mx-auto max-w-3xl text-center">
